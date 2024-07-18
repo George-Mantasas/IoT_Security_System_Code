@@ -9,5 +9,5 @@ a IoT Security Systems was created from scrach.
 George Mantasas. University of the Peloponnese. School of Economics and Technology.
 Department of Digital Systems 2023.
 
-If you want to contact me, you can send me at geo.mantasas@gmail.com
+If you want to contact me, you can send me geo.mantasas@gmail.com
 
