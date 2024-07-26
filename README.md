@@ -2,8 +2,9 @@
 
 My name is George Mantasas and I'm from Greece.
 
-As part of my thesis on "IoT Security Systems in Theory and Practice"
-a IoT Security Systems was created from scratch.
+As part of my thesis on 'IoT Security Systems in Theory and Practice,' 
+I created an IoT security system from scratch using an ESP32 and various sensors. 
+Along with the hardware, I also developed the cloud-based software for managing the security system and sending notifications.
 
 
 George Mantasas. University of the Peloponnese. School of Economics and Technology.
